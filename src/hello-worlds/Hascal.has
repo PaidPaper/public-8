@@ -1,4 +1,6 @@
 function main() : int {
     print("Hello World!")
+    print("Hello World!")
+    print("Hello World!")
     return 0
 }
