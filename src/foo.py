@@ -6,4 +6,5 @@ class Foo:
     print("Hello foo3")
     print("Hello foo4")
 
+    print("Wanda testing preflight 1.11.0")
     print("Hello foo4")
