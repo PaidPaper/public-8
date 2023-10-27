@@ -8,5 +8,5 @@ class Foo:
 
     print("Hello foo4")
 
-    print("Hello foo4")
+    print("Hello foo4sefsegseg")
 
